@@ -23,3 +23,5 @@ Qiskit and its dependencies
 
 ## Date
 2020-02-02
+
+MIT copyright
